@@ -33,3 +33,5 @@ The project is designed to work alongside the VTU results portal.[page:1] Instea
 - More powerful VTU Smart Importer with direct text parsing for multiple students.
 - Advanced analytics (average, highest, lowest per subject).
 - Authentication and per-class admin controls for secure leaderboard management.[page:1]
+
+workable link - https://ai.studio/apps/drive/1HUIXSHnUQKv82oJ4W2BM1KGD92qWRVPh
