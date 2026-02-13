@@ -1,6 +1,6 @@
 # Student Rank Master (RankMaster Pro)
 
-Student Rank Master (RankMaster Pro) is a web application that builds a shared class leaderboard from students’ semester marks.[page:1] Students enter their name, USN (roll number), and seven subject-wise marks (up to three digits each), and the app automatically calculates the total and ranks everyone from highest to lowest.[page:1]
+Student Rank Master (RankMaster Pro) is a web application that builds a shared class leaderboard from students’ semester marks.[page:1] Students enter their name, USN (roll number), and seven subject-wise marks (up to three digits each), and the app automatically calculates the total and ranks everyone from highest to lowest (this is just the prototype not the actual deployed aap)
 
 ## Features
 
